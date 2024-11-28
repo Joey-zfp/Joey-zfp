@@ -11,4 +11,3 @@ Joey-s1113518
 - question_2.cpp
 - question_3.cpp
 - question_4.cpp
-- Output
